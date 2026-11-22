@@ -3,7 +3,7 @@
 ![architecture](images/architecture.png)
 
 
-[YouTube](https://www.youtube.com/watch?v=Rd04XB6F0pU)
+
 
 ## Abstract
 
