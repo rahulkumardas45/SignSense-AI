@@ -2,7 +2,7 @@
 
 ![architecture](images/architecture.png)
 
-![Output Video](images/outputVideo_gif.gif)
+
 [YouTube](https://www.youtube.com/watch?v=Rd04XB6F0pU)
 
 ## Abstract
@@ -76,7 +76,7 @@ I captured each frame shown by the webcam of our machine.
 
 In each frame I defined a region of interest (ROI) which is denoted by a blue bounded square as shown in the image below.
 
-![Training Data Collection Image](images/trainingdata.png)
+
 
 After capturing the image from the ROI, I applied gaussian blur filter to the image which helps for extracting various features of the image. 
 
@@ -185,7 +185,7 @@ So, to handle above cases I made three different classifiers for classifying the
 
 The GUI(Graphical User Interface) of the application is as shown below :
 
-![GUI](images/gui.png)
+
 
 Flow Chart for Gesture Classification is as following :
 
@@ -215,7 +215,7 @@ Note : Python 3.8 or above is required to build this project, as some of the lib
 
 3. string -> pip install strings
 
-4. os-sys -> pip install os-sys
+
 
 5. opencv -> pip install opencv-python
 
